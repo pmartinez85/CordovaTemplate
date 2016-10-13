@@ -9,9 +9,9 @@
 
 
 window.$ = window.jquery = require('jquery');  //Així fem les dos coses a
-windows._ = require('underscore');
+window._ = require('underscore');
 
-var _ = require('underscore');
+//var _ = require('underscore');
 
 
     $(document).ready(function(){
