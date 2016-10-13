@@ -17,3 +17,6 @@ window._ = require('underscore');
     $(document).ready(function(){
         $("#msgid").html(_.capitalize("This is Hello World by JQuery"));
     });
+
+require('bootstrap-sass');
+
