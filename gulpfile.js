@@ -20,7 +20,7 @@ elixir(mix => {
         .webpack('app.js')
         .scripts([
             'hello.js',
-            '/www/js/app.js'
+            './www/js/app.js'
     ]);
 
 });

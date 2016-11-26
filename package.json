@@ -7,8 +7,12 @@
     "prod": "gulp --production",
     "dev": "gulp watch"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmartinez85/CordovaTemplate.git"
+  },
+  "author": "Pedro Martinez Segura",
+  "license": "MIT",
   "private": true,
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
